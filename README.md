@@ -25,7 +25,7 @@ This project involved building a comprehensive geodatabase for Maseno University
 <h2>Project Workflow :</h2>
 
 <p align="center">
-Launch the utility: <br/>
+Study Area: <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
