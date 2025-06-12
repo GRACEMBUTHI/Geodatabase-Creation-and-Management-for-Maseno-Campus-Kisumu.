@@ -42,23 +42,19 @@ Creating annotations:  <br/>
 <br />
 <br />
 Publishing the added layers:  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/KSyCCx0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Previewing the layers published using open layers.:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ygbV00A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Using qgis2web to create a web for hosting out shapefiles :  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Using qgis2web to create a web for hosting the layers :  <br/>
+<img src="https://i.imgur.com/GQP1WIM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br /> 
- Previewing the layers published using open layers.:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Hosting our shapefiles by Exporting the web map.:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+ Hosting the layers by Exporting the web map.:  <br/>
+<img src="https://i.imgur.com/6V5yZsj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
